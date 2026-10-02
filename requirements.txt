@@ -1,0 +1,5 @@
+streamlit>=1.50
+cryptography>=42.0
+Pillow>=10.0
+numpy>=1.26
+pandas>=2.0
